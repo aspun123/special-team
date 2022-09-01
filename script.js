@@ -20,11 +20,11 @@ function onloadScreen() {
       return;
     }
     container.style.display = null;
-    layer.textContent = 'Semoga Anda Tetap Bahagia';
+    // layer.textContent = 'Semoga Anda Tetap Bahagia';
   }
-  toggleContainer();
-  setTimeout(toggleContainer, 2222);
-  setTimeout(() => layer.remove(), 4800);
+  // toggleContainer();
+  // setTimeout(toggleContainer, 2222);
+  // setTimeout(() => layer.remove(), 4800);
 }
 
 // Tombol scroll ke atas, menampilkan
