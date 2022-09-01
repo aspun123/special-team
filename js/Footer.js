@@ -51,7 +51,7 @@ divEl.style.display = 'flex';
 divEl.style.flexDirection = 'row';
 divEl.style.justifyContent = 'space-between';
 
-leftBrandEl.innerText = 'Created by Special Team Member :logo-lope-lope:';
+leftBrandEl.innerText = 'Created by Special Team Member ❤';
 
 // Buat komponen list menu
 linkMenu.forEach((menu) => {
