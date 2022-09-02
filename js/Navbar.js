@@ -38,6 +38,7 @@ const linkMenu = [
 ];
 
 // Render menu navigasi
+console.log(linkMenu)
 linkMenu.forEach((menu) => {
   const liEl = document.createElement('li');
   const linkEl = document.createElement('a');
